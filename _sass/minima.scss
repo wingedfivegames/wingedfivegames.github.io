@@ -1,0 +1,68 @@
+@charset "utf-8";
+
+// Define defaults for each variable.
+
+$base-font-family: "Cabin", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$base-font-size:   20px !default;
+$base-font-weight: 500 !default;
+$small-font-size:  $base-font-size * 0.875 !default;
+$base-line-height: 1.5 !default;
+
+$hed-font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$hed-font-size:   24px !default;
+$hed-font-weight: 500 !default;
+$small-font-size:  $hed-font-size * 0.875 !default;
+$hed-line-height: 1.5 !default;
+
+$spacing-unit:     20px !default;
+
+$text-color:       #333 !default;
+$background-color: #fefefa !default;
+$brand-color:      #789DE5 !default;
+$off-white-color:  #fefefa !default;
+
+$grey-color:       #828282 !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark:  darken($grey-color, 25%) !default;
+
+$blue-color:       #789DE5 !default;
+$blue-color-light: lighten($blue-color, 20%) !default;
+$blue-color-dark:  darken($blue-color, 25%) !default;
+
+$red-color:       #D06D6A !default;
+$red-color-light: lighten($red-color, 20%) !default;
+$red-color-dark:  darken($red-color, 25%) !default;
+
+$yellow-color:       #F9DA78 !default;
+$yellow-color-light: lighten($yellow-color, 20%) !default;
+$yellow-color-dark:  darken($yellow-color, 25%) !default;
+
+// Width of the content area
+$content-width:    1200px !default;
+
+$on-palm:          620px !default;
+$on-laptop:        880px !default;
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//   .wrapper {
+//     padding-right: $spacing-unit / 2;
+//     padding-left: $spacing-unit / 2;
+//   }
+// }
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+@mixin relative-font-size($ratio) {
+  font-size: $base-font-size * $ratio;
+}
+
+// Import partials.
+@import
+  "minima/base",
+  "minima/layout",
+  "minima/syntax-highlighting"
+;

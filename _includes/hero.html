@@ -1,0 +1,39 @@
+<header class="post-header blue">
+
+{% if page.image %}
+  <div class="content-col-wrapper">
+    <div class="header-style">
+    <div class="wrapper">
+    {% if page.title %}
+    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+    {% else %}
+    <h1 class="post-title" itemprop="name headline">404: Page not found</h1>
+    {% endif %}
+    <p class="post-meta">
+    {% if page.author %}
+    • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
+    {% endif %}</p>
+    </div>
+    </div>
+    <div class="content-col content-col-full blue large-head no-border" style="background-image: url('{{ page.image }}');">
+    </div>
+
+  </div>
+{% else %}
+  <div class="content-col-wrapper">
+    <div class="wrapper">
+    {% if page.title %}
+    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+    {% else %}
+    <h1 class="post-title" itemprop="name headline">404: Page not found</h1>
+    {% endif %}
+    <p class="post-meta">
+    {% if page.author %}
+    • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
+    {% endif %}</p>
+    </div>
+  </div>
+  <div class="content-col content-col-full blue small-head no-border">
+  </div>
+{% endif %}
+</header>

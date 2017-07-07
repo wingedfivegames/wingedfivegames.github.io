@@ -1,0 +1,33 @@
+{% assign sorted_features = (site.features | sort: 'position') %}
+{% for feature in sorted_features %}
+  {% capture modulo %}{{ feature.position | mod:3 }}{% endcapture %}
+  {% if modulo == '1' %}
+  <a href="{{ feature.link }}">
+  <div class="content-col-wrapper">
+    <div class="content-col content-col-full blue giant-head hover-link" style="background-image: url('{{ feature.image }}');">
+      <div class="full-pad caption blue">
+        {{ feature.slug }}
+      </div>
+    </div>
+  </div>
+  </a>
+  {% elsif modulo == '2' %}
+  <a href="{{ feature.link }}">
+  <div class="content-col-wrapper">
+    <div class="content-col content-col-half red large-head hover-link right-border" style="background-image: url('{{ feature.image }}');">
+      <div class="half-pad caption red">
+        {{ feature.slug }}
+      </div>
+    </div>
+  </a>
+  {% elsif modulo == '0' %}
+  <a href="{{ feature.link }}">
+    <div class="content-col content-col-half yellow large-head hover-link" style="background-image: url('{{ feature.image }}');">
+      <div class="half-pad caption yellow">
+        {{ feature.slug }}
+      </div>
+    </div>
+  </div>
+  </a>
+  {% endif %}
+{% endfor %}

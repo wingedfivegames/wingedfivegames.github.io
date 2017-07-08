@@ -15,7 +15,7 @@
     {% endif %}</p>
     </div>
     </div>
-    <div class="content-col content-col-full blue large-head no-border" style="background-image: url('{{ page.image }}');">
+    <div class="content-col content-col-full blue large-head no-border" style="background-image: url('{{ page.image | prepend: site.github.url }}');">
     </div>
 
   </div>

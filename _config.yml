@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Winged Five Games
-email: wingedfivegames@gmail.com
+email: info@wingedfivegames.com
 logo: '/assets/decor/winged-five-games-wordmark-color-alt-cropped.png'
 contact: Contact us
-media: Connect via
+media: '@wingedfivegames'
 mission: What we do
 address: >
   2801 Washington Road<br />
@@ -27,17 +27,16 @@ description: > # this means to ignore newlines
   <p>We make card games that tell stories.</p>
   <p>Our games are quick to learn and fun to play.</p>
   <p>Suitable for competitive or casual play, we can make a custom game for your business or event.</p>
-
 call_to_action: >
   Contact us about custom games.
 copyright: Copyright © 2017 Winged Five Games, LLC.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-facebook_username: wingedfive
-twitter_username: wingedfive
-instagram_username: wingedfive
-github_username:  wingedfive
-linkedin_username:  wingedfive
+facebook_username: wingedfivegames
+twitter_username: wingedfivegames
+instagram_username: wingedfivegames
+github_username:  wingedfivegames
+linkedin_username:  wingedfivegames
 
 # Build settings
 markdown: kramdown

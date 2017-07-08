@@ -54,7 +54,7 @@
 
 .site-nav {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-  padding-top: 8px;
+  padding-top: 4px;
   .nav-trigger {
       display: none;
   }
@@ -82,7 +82,7 @@
 
   @include media-query($on-palm) {
     width: 36px;
-    padding-top: 2px;
+    padding-top: 4px;
     label[for="nav-trigger"] {
       display: block;
       width: 36px;

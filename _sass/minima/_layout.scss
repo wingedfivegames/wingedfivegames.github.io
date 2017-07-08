@@ -372,6 +372,7 @@
 
 .giant-head {
   height: 450px;
+  background-position: center;
   @include media-query($on-laptop) {
     height: 360px;
   }
@@ -382,6 +383,7 @@
 
 .large-head {
   height: 300px;
+  background-position: center;
   @include media-query($on-laptop) {
     height: 240px;
   }
@@ -393,6 +395,7 @@
 .small-head {
   height: 60px;
   margin-bottom: $spacing-unit;
+  background-position: center;
   @include media-query($on-laptop) {
     height: 40px;
   }

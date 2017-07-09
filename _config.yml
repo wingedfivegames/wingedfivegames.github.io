@@ -37,7 +37,7 @@ facebook_username: wingedfivegames
 twitter_username: wingedfivegames
 instagram_username: wingedfivegames
 github_username:  wingedfivegames
-linkedin_username:  wingedfivegames
+linkedin_username_disabled:  wingedfivegames
 
 # Build settings
 markdown: kramdown

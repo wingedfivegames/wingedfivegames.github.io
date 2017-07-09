@@ -397,7 +397,7 @@
   margin-bottom: $spacing-unit;
   background-position: center;
   @include media-query($on-laptop) {
-    height: 40px;
+    height: 32px;
   }
   @include media-query($on-palm) {
     height: 20px;

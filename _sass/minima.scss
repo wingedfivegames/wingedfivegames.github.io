@@ -40,8 +40,8 @@ $yellow-color-dark:  darken($yellow-color, 25%) !default;
 // Width of the content area
 $content-width:    1000px !default;
 
-$on-palm:          620px !default;
-$on-laptop:        880px !default;
+$on-palm:          600px !default;
+$on-laptop:        800px !default;
 
 // Use media queries like this:
 // @include media-query($on-palm) {

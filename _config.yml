@@ -33,7 +33,7 @@ call_to_action: >
 copyright: Copyright © 2017 Winged Five Games, LLC.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-facebook_username: wingedfivegames
+facebook_username: WingedFive
 twitter_username: wingedfivegames
 instagram_username: wingedfivegames
 github_username:  wingedfivegames

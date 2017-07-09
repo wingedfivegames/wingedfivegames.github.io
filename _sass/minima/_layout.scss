@@ -140,7 +140,7 @@
   // Positioning context for the mobile navigation icon
   position: absolute;
   top: 0;
-  right: 4%;
+  right: 0;
   height: 600px;
   width: 400px;
   background-image: url('/assets/decor/winged-five-logo-color-alt-angled.png');
@@ -152,7 +152,6 @@
     width: 240px;
   }
   @include media-query($on-palm) {
-    right: 0;
     height: 160px;
     width: 120px;
   }

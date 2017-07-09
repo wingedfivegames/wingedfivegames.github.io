@@ -152,8 +152,9 @@
     width: 240px;
   }
   @include media-query($on-palm) {
-    height: 180px;
-    width: 140px;
+    right: 0;
+    height: 160px;
+    width: 120px;
   }
 }
 

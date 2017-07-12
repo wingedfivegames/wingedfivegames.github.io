@@ -165,6 +165,10 @@
   background-color: $blue-color;
 }
 
+.footer-bug {
+  width: 80%;
+}
+
 .footer-heading {
   @include relative-font-size(1.125);
   margin-bottom: $spacing-unit / 2;
@@ -200,19 +204,20 @@
 }
 
 .footer-col-1 {
-  width: -webkit-calc(35% - (#{$spacing-unit}));
-  width:         calc(35% - (#{$spacing-unit}));
+  width: -webkit-calc(30% - (#{$spacing-unit}));
+  width:         calc(30% - (#{$spacing-unit}));
 }
 
 .footer-col-2 {
-  width: -webkit-calc(45% - (#{$spacing-unit}));
-  width:         calc(45% - (#{$spacing-unit}));
+  width: -webkit-calc(40% - (#{$spacing-unit}));
+  width:         calc(40% - (#{$spacing-unit}));
+  text-align: center;
 }
 
 .footer-col-3 {
-  width: -webkit-calc(20% - (#{$spacing-unit}));
-  width:         calc(20% - (#{$spacing-unit}));
-  text-align: left;
+  width: -webkit-calc(30% - (#{$spacing-unit}));
+  width:         calc(30% - (#{$spacing-unit}));
+  text-align: right;
 }
 
 @include media-query($on-laptop) {
@@ -225,9 +230,13 @@
   .footer-col-3 {
     width: -webkit-calc(100% - (#{$spacing-unit} / 2));
     width:         calc(100% - (#{$spacing-unit} / 2));
-    text-align: left;
     padding-top: $spacing-unit;
   }
+}
+
+.username {
+  margin-right: 10px;
+  margin-left: 10px;
 }
 
 @include media-query($on-palm) {

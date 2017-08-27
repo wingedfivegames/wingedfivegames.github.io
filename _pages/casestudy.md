@@ -18,23 +18,23 @@ It's a quick but complex game featuring multiple strategy choices. Using <a href
 
 We started production with simple hand-written note cards, progressing to printed cardstock for better playtesting.
 
-<div align="center">
-<p>After initial tests, we created printable templates.</p>
-<img src="/assets/images/sample-pdf-cards.png">
+After initial tests, we created printable templates.
 
-<p>Printed on heavy cardstock, we playtest with prototypes.</p>
-<img src="/assets/images/card-player-sample-two.jpg">
+<img src="/assets/images/sample-pdf-cards.png" alt="Sample action cards displayed from a PDF">
 
-<p>With the gameplay working, we moved into artwork tests.</p>
-<img src="/assets/images/card-preview-special.png" width="49%">
-<img src="/assets/images/card-preview-action.png" width="49%">
-</div>
+Printed on heavy cardstock, we playtest with prototypes.
+
+<img src="/assets/images/card-player-sample-two.jpg" alt="A pile of printed leader cards for gameplay testing">
+
+With the gameplay working, we moved into artwork tests.
+
+<img src="/assets/images/card-preview-special.png" width="49%" alt="Preliminary artwork for a special action card">
+<img src="/assets/images/card-preview-action.png" width="49%" alt="Preliminary artwork for a standard bonus card">
 
 The artwork shown above is preliminary, and gives a good sense of the final tone and direction of the game. We're currently testing color and font combinations to ensure readability and playability.
 
 We're also working on the partners expansion pack, which lets players team up and introduces additional leaders and actions to the gameplay.
 
-<div align="center">
-<p>The ally expansion creates team play.</p>
-<img src="/assets/images/ally-card-preview.png">
-</div>
+The partners expansion creates team play.
+
+<img src="/assets/images/ally-card-preview.png" alt="Sample partner cards displayed from a PDF">

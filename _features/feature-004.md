@@ -1,8 +1,8 @@
 ---
 title:    "First lede"
-slug:     "We make games that tell stories"
-image:    '/assets/images/cards-test-objectives.jpg'
+slug:     "Case Study: Cold War"
+image:    '/assets/images/card-preview-action.png'
 position: 4
 display:  'full'
-link:     '/about/'
+link:     '/case-study/'
 ---

@@ -19,13 +19,13 @@ It's a quick but complex game featuring multiple strategy choices. Using <a href
 We started production with simple hand-written note cards, progressing to printed cardstock for better playtesting.
 
 <div align="center">
-<div class="caption">After initial tests, we created printable templates.</div>
+<p>After initial tests, we created printable templates.</p>
 <img src="/assets/images/sample-pdf-cards.png">
 
-<div class="caption">Printed on heavy cardstock, we playtest with prototypes.</div>
+<p>Printed on heavy cardstock, we playtest with prototypes.</p>
 <img src="/assets/images/card-player-sample-two.jpg">
 
-<div class="caption">With the gameplay working, we moved into artwork tests.</div>
+<p>With the gameplay working, we moved into artwork tests.</p>
 <img src="/assets/images/card-preview-special.png" width="49%">
 <img src="/assets/images/card-preview-action.png" width="49%">
 </div>
@@ -35,6 +35,6 @@ The artwork shown above is preliminary, and gives a good sense of the final tone
 We're also working on the partners expansion pack, which lets players team up and introduces additional leaders and actions to the gameplay.
 
 <div align="center">
-<div class="caption">The ally expansion creates team play.</div>
+<[>The ally expansion creates team play.</p>
 <img src="/assets/images/ally-card-preview.png">
 </div>

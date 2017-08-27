@@ -17,6 +17,9 @@ We craft the actions and themes of the game to suit your promotional or training
 * Education
   * Historical simulations
   * Creative gameplay
+* Service Organizations
+  * Misson-based branding
+  * Civic-oriented game objectives
 * Training
   * Concept identification
   * Subject mastery

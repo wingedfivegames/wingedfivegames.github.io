@@ -35,6 +35,6 @@ The artwork shown above is preliminary, and gives a good sense of the final tone
 We're also working on the partners expansion pack, which lets players team up and introduces additional leaders and actions to the gameplay.
 
 <div align="center">
-<[>The ally expansion creates team play.</p>
+<p>The ally expansion creates team play.</p>
 <img src="/assets/images/ally-card-preview.png">
 </div>

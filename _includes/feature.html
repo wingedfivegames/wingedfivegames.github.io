@@ -1,7 +1,6 @@
 {% assign sorted_features = (site.features | sort: 'position') %}
 {% for feature in sorted_features %}
-  {% capture modulo %}{{ feature.position | mod:3 }}{% endcapture %}
-  {% if modulo == '1' %}
+  {% if feature.display == 'full' %}
   <a href="{{ feature.link }}">
   <div class="content-col-wrapper">
     <div class="content-col content-col-full blue giant-head hover-link" style="background-image: url('{{ feature.image | prepend: site.github.url }}');">
@@ -11,7 +10,7 @@
     </div>
   </div>
   </a>
-  {% elsif modulo == '2' %}
+  {% elsif feature.display == 'left' %}
   <a href="{{ feature.link }}">
   <div class="content-col-wrapper">
     <div class="content-col content-col-half red large-head hover-link right-border" style="background-image: url('{{ feature.image | prepend: site.github.url }}');">
@@ -20,7 +19,7 @@
       </div>
     </div>
   </a>
-  {% else' %}
+  {% elsif feature.display == 'right' %}
   <a href="{{ feature.link }}">
     <div class="content-col content-col-half yellow large-head hover-link" style="background-image: url('{{ feature.image | prepend: site.github.url }}');">
       <div class="half-pad caption yellow">

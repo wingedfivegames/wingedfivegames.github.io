@@ -1,7 +1,7 @@
 ---
 title:    "First lede"
-slug:     "We make games that tell stories"
-image:    '/assets/images/cards-test-objectives.jpg'
+slug:     "Play with big ideas"
+image:    '/assets/images/hedge-hogs.jpg'
 position: 1
 display:  'full'
 link:     '/about/'

@@ -52,6 +52,11 @@
             {% include icon-github.html username=site.github_username %}
           </li>
           {% endif %}
+          {% if site.youtube_username %}
+          <li>
+            {% include icon-youtube.html username=site.youtube_username %}
+          </li>
+          {% endif %}
           <!--li>
             <a href="{{ "/feed.xml" | relative_url }}">RSS updates</a></p>
           </li-->

@@ -1,9 +1,14 @@
 ---
 layout:     page
 title:      'Cold War Alliance'
+type:       game
 image:      '/assets/images/card-preview-cropped.png'
 permalink:  '/games/cold-war-alliance/'
+logo:       '/assets/images/the-geneva-accords-logo.png'
+logo_small: '/assets/images/the-geneva-accords-logo-small.png'
 position:   15
+color:      'red'
+summary:    'This is a summary'
 ---
 
 Our first game replays the Cold War struggle for Europe. Playing as an American president or Soviet premier, players compete to persuade nations to join their alliance. 2 - 5 players can compete.

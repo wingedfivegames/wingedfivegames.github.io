@@ -547,7 +547,7 @@
 
 .game-logo {
   float: left;
-  margin-right: 40px;
+  margin-right: 60px;
   text-align: center;
   margin-left: 8px;
 }
@@ -571,4 +571,23 @@
 
 .game-description a, .game-description a:visited {
   color: $off-white-color;
+}
+
+.summary {
+  clear: both;
+  width: 340px;
+  padding-top: 8px;
+}
+
+.youtube {
+  width: 560px;
+  height: 315px;
+  @include media-query($on-laptop) {
+    width: 560px;
+    height: 315px;
+  }
+  @include media-query($on-palm) {
+    width: 280px;
+    height: 158px;
+  }
 }

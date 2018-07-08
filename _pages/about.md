@@ -1,7 +1,7 @@
 ---
 layout:     page
 title:      About
-image:      '/assets/images/card-sample-two.jpg'
+image:      '/assets/images/hedge-hogs-board.jpg'
 permalink:  '/about/'
 position:   5
 ---

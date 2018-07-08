@@ -9,6 +9,9 @@ logo_small: '/assets/images/rhino-rescue-logo-small.png'
 position:   20
 color:      'orange'
 summary:    'This is a summary'
+youtube:    ''
+sellsheet:  ''
+pnp:        no
 ---
 
 Rescue

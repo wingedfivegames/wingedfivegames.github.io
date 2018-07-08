@@ -1,8 +1,8 @@
 ---
 title:    "Second lede"
-slug:     "Prototype to production"
-image:    '/assets/images/cards-test-objectives.jpg'
+slug:     "Play with big ideas"
+image:    '/assets/images/playtest.jpg'
 position: 2
 display:  'left'
-link:     '/process/'
+link:     '/games/'
 ---

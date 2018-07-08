@@ -1,8 +1,8 @@
 ---
 title:    "First lede"
-slug:     "Play with big ideas"
-image:    '/assets/images/hedge-hogs.jpg'
+slug:     "Hedge Hogs!"
+image:    '/assets/images/hedge-hogs-board.jpg'
 position: 1
 display:  'full'
-link:     '/about/'
+link:     '/games/hedge-hogs'
 ---

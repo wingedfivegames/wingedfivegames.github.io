@@ -9,6 +9,9 @@ logo_small: '/assets/images/interiors-logo-small.png'
 position:   30
 color:      'purple'
 summary:    'This is a summary'
+youtube:    ''
+sellsheet:  ''
+pnp:        no
 ---
 
 Interiors

@@ -1,6 +1,6 @@
 ---
 layout:     page
-title:      'Cold War Alliance'
+title:      'The Geneva Accords'
 type:       game
 image:      '/assets/images/card-preview-cropped.png'
 permalink:  '/games/cold-war-alliance/'
@@ -9,6 +9,9 @@ logo_small: '/assets/images/the-geneva-accords-logo-small.png'
 position:   15
 color:      'red'
 summary:    'This is a summary'
+youtube:    ''
+sellsheet:  '/assets/files/The_Geneva_Accords_Winged_Five_Games.pdf'
+pnp:        no
 ---
 
 Our first game replays the Cold War struggle for Europe. Playing as an American president or Soviet premier, players compete to persuade nations to join their alliance. 2 - 5 players can compete.

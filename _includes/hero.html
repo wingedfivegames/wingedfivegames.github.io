@@ -2,7 +2,7 @@
 
 {% if page.image %}
   <div class="content-col-wrapper">
-    <div class="header-style">
+    <div class="header-style {{ page.color }}-button">
     <div class="wrapper">
     {% if page.title %}
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
@@ -11,16 +11,16 @@
     {% endif %}
     <p class="post-meta">
     {% if page.author %}
-    • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
+    • <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
     {% endif %}</p>
     </div>
     </div>
-    <div class="content-col content-col-full blue large-head no-border" style="background-image: url('{{ page.image | prepend: site.github.url }}');">
+    <div class="content-col content-col-full blue large-head no-border" style="background-image: url('{{ page.image }}');">
     </div>
 
   </div>
 {% else %}
-  <div class="content-col-wrapper">
+  <div class="content-col-wrapper {{ page.color }}-button">
     <div class="wrapper">
     {% if page.title %}
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
@@ -29,7 +29,7 @@
     {% endif %}
     <p class="post-meta">
     {% if page.author %}
-    • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
+    • <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
     {% endif %}</p>
     </div>
   </div>

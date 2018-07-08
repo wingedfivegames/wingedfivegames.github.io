@@ -28,14 +28,32 @@ $grey-color-dark:  darken($grey-color, 25%) !default;
 $blue-color:       #789DE5 !default;
 $blue-color-light: lighten($blue-color, 20%) !default;
 $blue-color-dark:  darken($blue-color, 25%) !default;
+$blue-color-darkest:  darken($blue-color, 35%) !default;
 
 $red-color:       #D06D6A !default;
 $red-color-light: lighten($red-color, 20%) !default;
 $red-color-dark:  darken($red-color, 25%) !default;
+$red-color-darkest:  darken($red-color, 35%) !default;
 
 $yellow-color:       #F9DA78 !default;
 $yellow-color-light: lighten($yellow-color, 20%) !default;
 $yellow-color-dark:  darken($yellow-color, 25%) !default;
+$yellow-color-darkest:  darken($yellow-color, 35%) !default;
+
+$green-color:       #DAF978 !default;
+$green-color-light: lighten($green-color, 20%) !default;
+$green-color-dark:  darken($green-color, 25%) !default;
+$green-color-darkest:  darken($green-color, 50%) !default;
+
+$purple-color:       #D099DA !default;
+$purple-color-light: lighten($purple-color, 20%) !default;
+$purple-color-dark:  darken($purple-color, 25%) !default;
+$purple-color-darkest:  darken($purple-color, 35%) !default;
+
+$orange-color:       #F9D099 !default;
+$orange-color-light: lighten($orange-color, 20%) !default;
+$orange-color-dark:  darken($orange-color, 25%) !default;
+$orange-color-darkest:  darken($orange-color, 35%) !default;
 
 // Width of the content area
 $content-width:    1000px !default;

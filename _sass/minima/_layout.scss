@@ -459,6 +459,51 @@
   color: $grey-color-dark;
 }
 
+.purple {
+  background-color: $purple-color;
+  color: $off-white-color;
+}
+
+.green {
+  background-color: $green-color;
+  color: $off-white-color;
+}
+
+.orange {
+  background-color: $orange-color;
+  color: $off-white-color;
+}
+
+.blue-button {
+  background-color: $blue-color-darkest;
+  color: $off-white-color;
+}
+
+.red-button {
+  background-color: $red-color-darkest;
+  color: $off-white-color;
+}
+
+.yellow-button {
+  background-color: $yellow-color-darkest;
+  color: $grey-color-dark;
+}
+
+.purple-button {
+  background-color: $purple-color-darkest;
+  color: $off-white-color;
+}
+
+.green-button {
+  background-color: $green-color-darkest;
+  color: $off-white-color;
+}
+
+.orange-button {
+  background-color: $orange-color-darkest;
+  color: $off-white-color;
+}
+
 .caption {
   padding: 8px;
   width: 60%;
@@ -493,5 +538,56 @@
   @include media-query($on-palm) {
     margin-top: 100px;
     font-size: 1em;
+  }
+}
+
+.game-list {
+  margin-bottom: 40px;
+}
+
+.game-logo {
+  float: left;
+  margin-right: 60px;
+  text-align: center;
+  margin-left: 8px;
+}
+
+.game-description {
+  float: left;
+  margin-top: 10px;
+}
+
+.game-caption {
+  padding: 8px;
+  width: 320px;
+  text-align: center;
+  margin-top: 10px;
+  float: left;
+  border-radius: 20px;
+  font-family: $hed-font-family;
+  font-weight: bold;
+  color: $off-white-color;
+}
+
+.game-description a, .game-description a:visited {
+  color: $off-white-color;
+}
+
+.summary {
+  clear: both;
+  width: 340px;
+  padding-top: 8px;
+}
+
+.youtube {
+  width: 560px;
+  height: 315px;
+  @include media-query($on-laptop) {
+    width: 560px;
+    height: 315px;
+  }
+  @include media-query($on-palm) {
+    width: 280px;
+    height: 158px;
   }
 }

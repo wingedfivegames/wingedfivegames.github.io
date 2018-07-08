@@ -1,0 +1,14 @@
+{% if page.youtube %}
+<iframe class="youtube" src="https://www.youtube.com/embed/{{ page.youtube }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{% endif %}
+
+<h2>Game information</h2>
+<ul>
+  <li>{{ page.players }}</li>
+  <li>Ages {{ page.ages }}</li>
+  <li>{{ page.time }}</li>
+
+{% if page.sellsheet %}
+  <li><a href="{{ page.sellsheet }}">{{ page.title }} sellsheet</a></li>
+{% endif %}
+</ul>

@@ -47,6 +47,8 @@ plugins_dir:
 collections:
   features:
     output: false
+  games:
+    output: true
   pages:
     output: true
     permalink: /:name

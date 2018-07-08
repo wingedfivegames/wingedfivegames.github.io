@@ -1,6 +1,7 @@
 ---
 layout:     page
 title:      Contact
+image:      '/assets/images/zenith-mat.jpg'
 permalink:  '/contact/'
 position:   20
 ---

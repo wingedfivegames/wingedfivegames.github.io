@@ -1,0 +1,15 @@
+{% assign sorted_games = (site.games | sort: 'position') %}
+{% for game in sorted_games %}
+  <div class="wrapper main-content">
+    <div class="game-list content-col">
+      <div class="game-logo">
+        <a href="{{ game.permalink }}"><img src="{{ game.logo_small }}" /></a>
+      </div>
+      <div class="game-description">
+        <h2><a href="{{ game.permalink }}" class="caption game-caption {{ game.color }}-button">{{ game.title }}</a></h2>
+        <p class="summary">{{ game.summary }}</p>
+      </div>
+    </div>
+  </div>
+{% endfor %}
+

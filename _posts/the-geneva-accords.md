@@ -1,8 +1,8 @@
 ---
 layout:     page
-title:      'Case Study'
+title:      'Cold War Alliance'
 image:      '/assets/images/card-preview-cropped.png'
-permalink:  '/case-study/'
+permalink:  '/games/cold-war-alliance/'
 position:   15
 ---
 

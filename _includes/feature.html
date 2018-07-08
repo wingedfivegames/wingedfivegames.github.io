@@ -3,7 +3,7 @@
   {% if feature.display == 'full' %}
   <a href="{{ feature.link }}">
   <div class="content-col-wrapper">
-    <div class="content-col content-col-full blue giant-head hover-link" style="background-image: url('{{ feature.image | prepend: site.github.url }}');">
+    <div class="content-col content-col-full blue giant-head hover-link" style="background-image: url('{{ feature.image }}');">
       <div class="full-pad caption blue">
         {{ feature.slug }}
       </div>
@@ -13,7 +13,7 @@
   {% elsif feature.display == 'left' %}
   <a href="{{ feature.link }}">
   <div class="content-col-wrapper">
-    <div class="content-col content-col-half red large-head hover-link right-border" style="background-image: url('{{ feature.image | prepend: site.github.url }}');">
+    <div class="content-col content-col-half red large-head hover-link right-border" style="background-image: url('{{ feature.image }}');">
       <div class="half-pad caption red">
         {{ feature.slug }}
       </div>
@@ -21,7 +21,7 @@
   </a>
   {% elsif feature.display == 'right' %}
   <a href="{{ feature.link }}">
-    <div class="content-col content-col-half yellow large-head hover-link" style="background-image: url('{{ feature.image | prepend: site.github.url }}');">
+    <div class="content-col content-col-half yellow large-head hover-link" style="background-image: url('{{ feature.image }}');">
       <div class="half-pad caption yellow">
         {{ feature.slug }}
       </div>

@@ -1,48 +1,36 @@
 ---
-layout:     page
+layout:     games
 title:      'The Geneva Accords'
 type:       game
-image:      '/assets/images/card-preview-cropped.png'
+image:      '/assets/images/berlin-divided.jpg'
 permalink:  '/games/cold-war-alliance/'
 logo:       '/assets/images/the-geneva-accords-logo.png'
 logo_small: '/assets/images/the-geneva-accords-logo-small.png'
 position:   15
 color:      'red'
-summary:    'This is a summary'
-youtube:    ''
+summary:    'This fast-paced, 18-turn card game uses a unique decision system that heightens the importance of every action.'
+youtube:
 sellsheet:  '/assets/files/The_Geneva_Accords_Winged_Five_Games.pdf'
-pnp:        no
+pnp:
+ages:       12+
+players:    '2-4 players'
+time:       '35-40 minutes'
 ---
 
-Our first game replays the Cold War struggle for Europe. Playing as an American president or Soviet premier, players compete to persuade nations to join their alliance. 2 - 5 players can compete.
+In The Geneva Accords, players try to win the Cold War by recruiting ally nations. Using their Economic, Military, or Scientific influence, players must offer each ally the best hope for the future. Allegiances can change as play unfolds, as players vie to tip the Balance of Power in their favor.
+
+This fast-paced, 18-turn card game uses a unique decision system that heightens the importance of every action. Player boosts and attacks come with a choice that directly affects the outcome of each round.
 
 Each player takes on the role of a Leader, who has influence ratings in three areas: Economy, Military, and Science.
 
-Each nation card is ranked with a point value and an influence category. Italy, for instance, is worth 8 points and influenced by Military strength.
+Each nation card is ranked with a point value and an influence category. Cuba, for instance, is worth 12 points and influenced by Military strength.
+
+<img alt="cards-test-objectives" src="/assets/images/cards-test-objectives.jpg" height="240">
+<img alt="cards-design-preview" src="/assets/images/card-preview-back.png" height="240">
+<img alt="cards-test-objectives" src="/assets/images/card-sample-three.jpg" height="240">
 
 Each round, players compete to win a single nation as their ally. Players have five Action cards in their hands, and play one per turn until the ally is won. At the end of the game, the player whose allies have the highest total value wins.
 
-It's a quick but complex game featuring multiple strategy choices. Using <a href="https://www.boardgamegeek.com/boardgamemechanic/2020/simultaneous-action-selection">Simultaneous Action Selection</a> and <a href="https://www.boardgamegeek.com/boardgamemechanic/2686/take">Take That</a> attack and defend mechanics, the game never plays the same way twice.
+It's a quick but complex game featuring multiple strategy choices. The game never plays the same way twice.
 
-We started production with simple hand-written note cards, progressing to printed cardstock for better playtesting.
-
-After initial tests, we created printable templates.
-
-<img src="/assets/images/sample-pdf-cards.png" alt="Sample action cards displayed from a PDF">
-
-Printed on heavy cardstock, we playtest with prototypes.
-
-<img src="/assets/images/card-player-sample-two.jpg" alt="A pile of printed leader cards for gameplay testing">
-
-With the gameplay working, we moved into artwork tests.
-
-<img src="/assets/images/card-preview-special.png" width="49%" alt="Preliminary artwork for a special action card">
-<img src="/assets/images/card-preview-action.png" width="49%" alt="Preliminary artwork for a standard bonus card">
-
-The artwork shown above is preliminary, and gives a good sense of the final tone and direction of the game. We're currently testing color and font combinations to ensure readability and playability.
-
-We're also working on the partners expansion pack, which lets players team up and introduces additional leaders and actions to the gameplay.
-
-The partners expansion creates team play.
-
-<img src="/assets/images/ally-card-preview.png" alt="Sample partner cards displayed from a PDF">
+<img alt="cards-test-objectives" src="/assets/images/the-geneva-accords.jpg">

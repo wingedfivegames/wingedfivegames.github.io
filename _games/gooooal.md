@@ -13,6 +13,7 @@ youtube:    'HcTNVpT4FZA'
 sellsheet:
 pnp:        yes
 ages:       6+
+players:    '2 players'
 time:       '10 minutes'
 ---
 

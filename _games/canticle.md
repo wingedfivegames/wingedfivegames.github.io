@@ -2,7 +2,7 @@
 layout:     games
 title:      'Canticle'
 type:       game
-image:      '/assets/images/canticle.jpg'
+image:      '/assets/images/canticle-icons-bg.png'
 permalink:  '/games/canticle/'
 logo:       '/assets/images/canticle-logo.png'
 logo_small: '/assets/images/canticle-logo-small.png'
@@ -13,8 +13,11 @@ youtube:    '6tdEL-ZmA4Q'
 sellsheet:
 pnp:
 ages:       7+
+players:    '1-2 players'
 time:       '10 minutes'
 ---
+
+Canticle is a head-to-head strategy game that also includes a solo mode. Players score points by combining cards into matching patterns.
 
 Canticle is our entry into this year's <a href="http://www.gencant.com/contest-2018/">GenCant</a> contest sponsored by <a href="https://buttonshygames.com/">ButtonShy Games</a>.
 

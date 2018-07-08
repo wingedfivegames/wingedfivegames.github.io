@@ -13,6 +13,7 @@ youtube:
 sellsheet:  '/assets/files/Hedge_Hogs_Winged_Five_Games.pdf'
 pnp:
 ages:       8+
+players:    '2-4 players'
 time:       '10-20 minutes'
 ---
 

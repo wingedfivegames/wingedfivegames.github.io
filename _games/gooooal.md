@@ -21,6 +21,8 @@ Gooooal! is a head-to-head action strategy game. Players take turns as Offense a
 
 Whoever scores the most goals wins. If tied, the first player to score when their opponent does not is the winner.
 
+<img src="/assets/images/goooooal-gameplay.jpg" alt="Gooooal cards" width="80%">
+
 In honor of the World Cup finals, Gooooal! is available as a free print-and-play game. To print your copy of the game, follow the instructions below.
 
 - The game files are single-sided

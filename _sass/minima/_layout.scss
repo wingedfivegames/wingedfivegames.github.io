@@ -550,6 +550,10 @@
   margin-right: 60px;
   text-align: center;
   margin-left: 8px;
+  @include media-query($on-palm) {
+    width: 240px;
+    font-size: 18px;
+  }
 }
 
 .game-description {
@@ -567,6 +571,10 @@
   font-family: $hed-font-family;
   font-weight: bold;
   color: $off-white-color;
+  @include media-query($on-palm) {
+    width: 240px;
+    font-size: 18px;
+  }
 }
 
 .game-description a, .game-description a:visited {
@@ -577,6 +585,9 @@
   clear: both;
   width: 340px;
   padding-top: 8px;
+  @include media-query($on-palm) {
+    width: 254px;
+  }
 }
 
 .youtube {

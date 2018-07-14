@@ -13,12 +13,12 @@ youtube:
 sellsheet:
 pnp:
 ages:       12+
-players:    '2-5 players'
+players:    '2-6 players'
 time:       '35-45 minutes'
 ---
 
-Interiors is strategic tile placement game for 2-5 players. Gameplay combines classic strategy games with modern drafting mechanics.
+Interiors is strategic tile placement game for 2-6 players. Gameplay combines classic strategy games with modern drafting and auction mechanics.
 
-This game is still a work-in-progress, and we hope to bring it to the table very soon.
+Players compete to completely fill their game boards by purchasing game tiles. Unpurchased tiles go up for auction, and the price is driven by market demand.
 
 <img alt="cards-test-objectives" src="/assets/images/interiors-pieces.png">

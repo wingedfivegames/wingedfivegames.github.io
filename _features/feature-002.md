@@ -5,4 +5,5 @@ image:    '/assets/images/playtest.jpg'
 position: 2
 display:  'left'
 link:     '/games/'
+color:    'red'
 ---

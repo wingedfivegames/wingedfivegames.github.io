@@ -35,6 +35,12 @@ p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
   margin-bottom: $spacing-unit;
+  @include media-query($on-laptop) {
+    margin-bottom: $spacing-unit / 2;
+  }
+  @include media-query($on-palm) {
+    margin-bottom: $spacing-unit / 4;
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {

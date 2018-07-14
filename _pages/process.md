@@ -9,7 +9,7 @@ Game concepts
 ====
 In addition to developing our own games, we work with businesses to create custom promotional games.
 
-We craft the actions and themes of the game to suit your promotional or training needs. Our game model works well for multiple uses:
+We craft the actions and themes of the game to suit your promotional or training needs. Our game models work well for multiple uses:
 
 * Marketing
   * Custom branded promotional games
@@ -23,6 +23,8 @@ We craft the actions and themes of the game to suit your promotional or training
 * Training
   * Concept identification
   * Subject mastery
+
+Check out <a href="/games/rhino-rescue/">Rhino Rescue</a> for an in-progress example of games for corporate clients.
 
 Our process
 ====

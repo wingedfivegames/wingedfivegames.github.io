@@ -1,6 +1,6 @@
 ---
 title:    "Next lede"
-slug:     "Corporate games"
+slug:     "Promotional games"
 image:    '/assets/images/cards-sheet.jpg'
 position: 3
 display:  'right'

@@ -1,7 +1,7 @@
 {% assign sorted_features = (site.features | sort: 'position') %}
 {% for feature in sorted_features %}
   {% if feature.display == 'full' %}
-  <a href="{{ feature.link }}">
+  <a href="{{ feature.link }}" title="{{ feature.slug }}">
   <div class="content-col-wrapper">
     <div class="content-col content-col-full blue giant-head hover-link" style="background-image: url('{{ feature.image }}');">
       <div class="full-pad caption {{ feature.color }}-button">
@@ -11,7 +11,7 @@
   </div>
   </a>
   {% elsif feature.display == 'left' %}
-  <a href="{{ feature.link }}">
+  <a href="{{ feature.link }}" title="{{ feature.slug }}">
   <div class="content-col-wrapper">
     <div class="content-col content-col-half red large-head hover-link right-border" style="background-image: url('{{ feature.image }}');">
       <div class="half-pad caption {{ feature.color }}">
@@ -20,7 +20,7 @@
     </div>
   </a>
   {% elsif feature.display == 'right' %}
-  <a href="{{ feature.link }}">
+  <a href="{{ feature.link }}" title="{{ feature.slug }}">
     <div class="content-col content-col-half yellow large-head hover-link" style="background-image: url('{{ feature.image }}');">
       <div class="half-pad caption {{ feature.color }}">
         {{ feature.slug }}

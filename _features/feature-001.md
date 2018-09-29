@@ -1,9 +1,9 @@
 ---
 title:    "First lede"
-slug:     "Featured Game: Canticle!"
-image:    '/assets/images/canticle_full.jpg'
+slug:     "Featured Game: Rhino Rescue"
+image:    '/assets/images/rhino-rescue-play.jpg'
 position: 1
 display:  'full'
-link:     '/games/canticle'
-color:    'purple'
+link:     '/games/rhino-rescue'
+color:    'orange'
 ---

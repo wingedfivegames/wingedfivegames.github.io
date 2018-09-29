@@ -6,7 +6,7 @@ image:      '/assets/images/berlin-divided.jpg'
 permalink:  '/games/cold-war-alliance/'
 logo:       '/assets/images/the-geneva-accords-logo.png'
 logo_small: '/assets/images/the-geneva-accords-logo-small.png'
-position:   15
+position:   8
 color:      'red'
 summary:    'A card game of Cold War diplomacy that uses a unique decision system that heightens the importance of every action.'
 youtube:

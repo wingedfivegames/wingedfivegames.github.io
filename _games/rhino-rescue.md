@@ -6,7 +6,7 @@ image:      '/assets/images/rhino-rescue-play.jpg'
 permalink:  '/games/rhino-rescue/'
 logo:       '/assets/images/rhino-rescue-logo.png'
 logo_small: '/assets/images/rhino-rescue-logo-small.png'
-position:   20
+position:   7
 color:      'orange'
 summary:    'A cooperative game where players work together to rescue the last white rhino, for 3-6 players.'
 youtube:

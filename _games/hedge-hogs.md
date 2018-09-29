@@ -10,7 +10,7 @@ position:   5
 color:      'green'
 summary:    'An abstract strategy game for 2-4 players, ages 8 and up.'
 youtube:
-sellsheet:  '/assets/files/Hedge_Hogs_Winged_Five_Games.pdf'
+sellsheet:  '/assets/files/Hedge_Hogs_Winged_Five_Games_v2.pdf'
 pnp:
 ages:       8+
 players:    '2-4 players'

@@ -52,6 +52,9 @@ collections:
   pages:
     output: true
     permalink: /:name
+  posts:
+    output: true
+    permalink: /posts/:name
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

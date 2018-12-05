@@ -1,7 +1,7 @@
 ---
 title:    "Next lede"
-slug:     "Promotional games"
-image:    '/assets/images/cards-sheet.jpg'
+slug:     "Custom games"
+image:    '/assets/images/rhino-rescue-play.jpg'
 position: 3
 display:  'right'
 link:     '/process/'

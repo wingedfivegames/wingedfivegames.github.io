@@ -1,7 +1,7 @@
 ---
 layout:     games-landing
 title:      Games
-image:      '/assets/images/geneva-action.jpg'
+image:      '/assets/images/tga-card-fan.jpg'
 permalink:  '/games/'
 position:   5
 ---

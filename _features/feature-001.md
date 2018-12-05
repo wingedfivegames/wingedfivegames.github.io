@@ -1,9 +1,9 @@
 ---
 title:    "First lede"
-slug:     "Featured Game: Rhino Rescue"
-image:    '/assets/images/rhino-rescue-play.jpg'
+slug:     "Featured Game: Hedge Hogs!"
+image:    '/assets/images/hh-new-board.jpg'
 position: 1
 display:  'full'
-link:     '/games/rhino-rescue'
-color:    'orange'
+link:     '/games/hedge-hogs'
+color:    'green'
 ---

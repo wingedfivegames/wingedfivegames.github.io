@@ -2,7 +2,7 @@
 layout:     games
 title:      'Hedge Hogs!'
 type:       game
-image:      '/assets/images/hedge-hogs-complete.jpg'
+image:      '/assets/images/hh-new-board.jpg'
 permalink:  '/games/hedge-hogs/'
 logo:       '/assets/images/hedge-hogs-logo.png'
 logo_small: '/assets/images/hedge-hogs-logo-small.png'

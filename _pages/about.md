@@ -5,12 +5,10 @@ image:      '/assets/images/rhino-rescue-tiles-proof.png'
 permalink:  '/about/'
 position:   5
 ---
-Winged Five Games are an Augusta, Georgia based LLC. Our founding member, Ken Rickard, serves as principal game designer.
+Winged Five Games are an Augusta, Georgia based LLC.
 
-We make card games for 2 - 4 players (4 - 8 with team-based expansions).
+Our founding member, Ken Rickard, serves as principal game designer.
 
-In our games, players take on character roles and compete to win objectives by managing their hand and playing appropriate bonus and penalty cards.
+We make card and board games for business and commercial sale.
 
-Our games are designed to be learned in less than 5 minutes. A full game should take 20 - 30 minutes.
-
-We are currently in development on our first project, expected to launch on Kickstarter in October.
+If you are interested in a custom game, check out our <a href="/process">Process</a> page and then drop us a line at info@wingedfivegames.com.

@@ -1,7 +1,7 @@
 ---
 layout:     page
 title:      About
-image:      '/assets/images/hedge-hogs-board.jpg'
+image:      '/assets/images/rhino-rescue-tiles-proof.png'
 permalink:  '/about/'
 position:   5
 ---

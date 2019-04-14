@@ -1,9 +1,9 @@
 ---
 title:    "First lede"
-slug:     "Featured Game: Hedge Hogs!"
-image:    '/assets/images/hh-new-board.jpg'
+slug:     "Featured Game: Pantry Panic!"
+image:    '/assets/images/pantry-panic-overview.jpg'
 position: 1
 display:  'full'
-link:     '/games/hedge-hogs'
-color:    'green'
+link:     '/games/pantry-panic'
+color:    'orange'
 ---

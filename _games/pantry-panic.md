@@ -2,7 +2,7 @@
 layout:     games
 title:      'Pantry Panic!'
 type:       game
-image:      '/assets/images/pantry-panic-new-set.jpg'
+image:      '/assets/images/pp-overview.jpg'
 permalink:  '/games/pantry-panic/'
 logo:       '/assets/images/pantry-panic-logo.png'
 logo_small: '/assets/images/pantry-panic-logo-small.png'

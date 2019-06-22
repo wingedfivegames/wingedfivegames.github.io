@@ -2,7 +2,7 @@
 layout:     games
 title:      'Pantry Panic!'
 type:       game
-image:      '/assets/images/pantry-panic-overview.jpg'
+image:      '/assets/images/pantry-panic-new-set.jpg'
 permalink:  '/games/pantry-panic/'
 logo:       '/assets/images/pantry-panic-logo.png'
 logo_small: '/assets/images/pantry-panic-logo-small.png'
@@ -10,7 +10,7 @@ position:   6
 color:      'red'
 summary:    'A cooperative game where players work together to rescue the last white rhino, for 3-6 players.'
 youtube:    'kZNpc-lA1TU'
-sellsheet:  '/assets/files/Pantry-Panic_Winged-Five-Games.pdf'
+sellsheet:  '/assets/files/Pantry-Panic-Winged-Five-Games.pdf'
 pnp:
 ages:       8+
 players:    '2-5 players'

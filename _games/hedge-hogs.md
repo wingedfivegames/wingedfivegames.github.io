@@ -2,15 +2,15 @@
 layout:     games
 title:      'Hedge Hogs!'
 type:       game
-image:      '/assets/images/hh-new-board.jpg'
+image:      '/assets/images/hh-new-colors.jpg'
 permalink:  '/games/hedge-hogs/'
-logo:       '/assets/images/hedge-hogs-logo.png'
-logo_small: '/assets/images/hedge-hogs-logo-small.png'
+logo:       '/assets/images/Hedge-Hogs-New-Logo-color.png'
+logo_small: '/assets/images/Hedge-Hogs-New-Logo-color-small.png'
 position:   5
 color:      'green'
 summary:    'An abstract strategy game for 2-4 players, ages 8 and up.'
-youtube:
-sellsheet:  '/assets/files/Hedge_Hogs_Winged_Five_Games_v2.pdf'
+youtube:    '1gmvDV-6SrQ'
+sellsheet:  '/assets/files/Hedge-Hogs-Winged-Five-Games-2.pdf'
 pnp:
 ages:       8+
 players:    '2-4 players'

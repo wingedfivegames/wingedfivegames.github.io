@@ -20,14 +20,10 @@ google_analytics: 'UA-102257607-1'
 contact: Contact us
 media: '@wingedfivegames'
 mission: Play with big ideas
-address: >
-  2801 Washington Road<br />
-  Suite 107 #303<br />
-  Augusta, GA 30909<br />
 description: Play with big ideas
 footer_bug: '/assets/decor/winged-five-logo-color-alt.png'
 call_to_action: We make custom games.
-copyright: Copyright © 2017-18 Winged Five Games, LLC.
+copyright: Copyright © 2017-2020 Winged Five Games, LLC.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wingedfivegames.com" # the base hostname & protocol for your site, e.g. http://example.com
 site.title_image: '/assets/decor/winged-five-logo-color-alt.png'

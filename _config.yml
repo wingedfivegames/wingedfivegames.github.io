@@ -23,7 +23,7 @@ mission: Play with big ideas
 description: Play with big ideas
 footer_bug: '/assets/decor/winged-five-logo-color-alt.png'
 call_to_action: We make custom games.
-copyright: Copyright © 2017-2020 Winged Five Games, LLC.
+copyright: Copyright © 2017-2023 Winged Five Games, LLC.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wingedfivegames.com" # the base hostname & protocol for your site, e.g. http://example.com
 site.title_image: '/assets/decor/winged-five-logo-color-alt.png'

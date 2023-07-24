@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/sixto/static/js/main.ec881f3a.js",
+    "main.js": "/sixto/static/js/main.e55d6098.js",
     "static/js/991.b136de41.js": "/sixto/static/js/991.b136de41.js",
     "static/media/MaterialCommunityIcons.ttf": "/sixto/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
-    "static/media/example.png": "/sixto/static/media/example.cd3db904ba42d0927292.png",
+    "static/media/example.png": "/sixto/static/media/example.3d99e3628c329b3a2ceb.png",
     "favicon.ico": "/sixto/favicon.ico",
     "index.html": "/sixto/index.html",
     "favicon-32.png": "/sixto/favicon-32.png",
     "favicon-16.png": "/sixto/favicon-16.png",
     "serve.json": "/sixto/serve.json",
     "manifest.json": "/sixto/manifest.json",
-    "main.ec881f3a.js.map": "/sixto/static/js/main.ec881f3a.js.map",
+    "main.e55d6098.js.map": "/sixto/static/js/main.e55d6098.js.map",
     "991.b136de41.js.map": "/sixto/static/js/991.b136de41.js.map"
   },
   "entrypoints": [
     "static/js/991.b136de41.js",
-    "static/js/main.ec881f3a.js"
+    "static/js/main.e55d6098.js"
   ]
 }
